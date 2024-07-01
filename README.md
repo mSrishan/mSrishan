@@ -1,5 +1,6 @@
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 200px></p>
 <h1 align="center">👋Hello World !, I'm Srishan</h1>
-<h3 align="center">A passionate IT Student <div class="gold-text">Bridging the Gap Between Design and Functionality</div>
+<h3 align="center">A passionate IT Student <div >Bridging the Gap Between Design and Functionality</div>
 </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=msrishan&label=Profile%20views&color=0e75b6&style=flat" alt="msrishan" /> </p>
@@ -10,7 +11,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **HTML,CSS,JavaScripts,C,Java,Python**
+- 💬 Ask me about **HTML,CSS,JavaScripts,C,PHP**
 
 - 📫 How to reach me **srishanmandawala@gmail.com**
  <br>
