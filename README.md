@@ -1,5 +1,11 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">👋Hello World !, I'm Srishan</h1>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=45&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=720&height=100&lines=%F0%9F%91%8BHello+World+!%2C+I'm+Srishan" alt="Typing SVG" />
+  </a>
+</div>
+
 <h3 align="center">A passionate IT Student <div>Bridging the Gap Between Design and Functionality</div>
 </h3>
 
