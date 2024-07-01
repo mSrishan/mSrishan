@@ -1,4 +1,5 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 140px></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -13,13 +14,25 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
-- 🔭 I’m currently working on **BuildMate+**
 
-- 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **HTML,CSS,JavaScripts,C,PHP**
+  <table style="width: 100%; border-collapse: collapse; margin: 30px auto; ">
+    <tr>
+      <td style="border: 1px solid #5DE2E7; padding: 10px; vertical-align: top;">
+        <ul style="list-style-type: none; padding: 0;">
+          <li>🔭 I’m currently working on <strong>BuildMate+</strong></li>
+          <li>🌱 I’m currently learning <strong>Laravel</strong></li>
+          <li>💬 Ask me about <strong>HTML, CSS, JavaScript, C, PHP</strong></li>
+          <li>📫 How to reach me <a href ="srishanmandawala@gmail.com">srishanmandawala@gmail.com</a></li>
+        </ul>
+      </td>
+      <td style="border: 2px solid #ddd; padding: 10px; text-align: center;">
+        <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" height="390px" width="520px" style="border-radius: 15px;">
+      </td>
+    </tr>
+  </table>
 
-- 📫 How to reach me **srishanmandawala@gmail.com**
+
  <br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
