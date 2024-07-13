@@ -38,11 +38,9 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/srishan mandawala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srishan mandawala" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/srishan mandawala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srishan mandawala" height="30" width="40" /></a>
-<a href="https://fb.com/srishan mandawala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="srishan mandawala" height="30" width="40" /></a>
-<a href="https://instagram.com/_s_r_i_s_h_a_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_s_r_i_s_h_a_n" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/srishanmk3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="srishanmk3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Srishan Mandawala" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" alt="Srishan Mandawala"/></a>
+<a href="https://fb.com/Srishan Mandawala" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="60" alt="Srishan Mandawala" /></a>
+<a href="https://instagram.com/_s_r_i_s_h_a_n" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" alt="Srishan Mandawala" /></a>
 </p>
 <br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
