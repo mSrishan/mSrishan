@@ -1,5 +1,9 @@
 
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 140px></p>
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/mSrishan/mSrishan/raw/main/assets/line-neon.gif" width="100%">
+
+<!-- GIF HEADER -->
+<img src="https://github.com/mSrishan/mSrishan/raw/main/assets/banner-header.gif">
 
 <div align="center">
   <a href="https://git.io/typing-svg">
