@@ -1,9 +1,4 @@
 
-<!-- RAINBOW LINE TOP -->
-<img src="https://github.com/mSrishan/mSrishan/raw/main/assets/line-neon.gif" width="100%">
-
-<!-- GIF HEADER -->
-<img src="https://github.com/mSrishan/mSrishan/raw/main/assets/banner-header.gif">
 
 <div align="center">
   <a href="https://git.io/typing-svg">
