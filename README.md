@@ -1,19 +1,4 @@
-
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=45&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=720&height=100&lines=%F0%9F%91%8BHey+!%2C+I'm+Srishan" alt="Typing SVG" />
-
-  </a>
-</div>
-
-<h3 align="center">A Passionate IT Student <div>Bridging the Gap Between Design and Functionality</div>
-</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=msrishan&label=Profile%20views&color=0e75b6&style=flat" alt="msrishan"  /> </p>
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<br>
+<div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=40&duration=4000&pause=1000&color=0E75B6&center=true&vCenter=true&width=720&height=100&lines=👋+Hello+World!+I'm+Srishan;" alt="Typing SVG"> </a> </div> <h3 align="center">A Passionate IT Student Bridging the Gap Between Design and Functionality</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=msrishan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"> </p> <p align="center"> <a href="https://www.srishan.me"> <img src="https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio"> </a> </p>
 
 
   <table style="width: 100%; border-collapse: collapse; margin: 30px auto; ">
@@ -23,6 +8,7 @@
           <li>🔭 I’m currently working on <strong>BuildMate+</strong></li>
           <li>🌱 I’m currently learning <strong>Laravel</strong></li>
           <li>💬 Ask me about <strong>HTML, CSS, JavaScript, C, PHP</strong></li>
+          <li>🌐 Portfolio: <a href="https://www.srishan.me" target="_blank">srishan.me</a></li>
           <li>📫 How to reach me <a href ="srishanmandawala@gmail.com">srishanmandawala@gmail.com</a></li>
         </ul>
       </td>
