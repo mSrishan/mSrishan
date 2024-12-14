@@ -5,7 +5,7 @@
     <tr>
       <td style="border: 1px solid #5DE2E7; padding: 10px; vertical-align: top;">
         <ul style="list-style-type: none; padding: 0;">
-          <li>🔭 I’m currently working on <strong>BuildMate+</strong></li>
+          <li>🔭 I’m currently working on <strong>MedSchedule</strong></li>
           <li>🌱 I’m currently learning <strong>Laravel</strong></li>
           <li>💬 Ask me about <strong>HTML, CSS, JavaScript, C, PHP</strong></li>
           <li>🌐 Portfolio: <a href="https://www.srishan.me" target="_blank">srishan.me</a></li>
@@ -13,7 +13,7 @@
         </ul>
       </td>
       <td style="border: 2px solid #ddd; padding: 10px; text-align: center;">
-        <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" height="390px" width="520px" style="border-radius: 15px;">
+        <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" height="290px" width="420px" style="border-radius: 15px;">
       </td>
     </tr>
   </table>
