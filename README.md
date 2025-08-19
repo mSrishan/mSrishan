@@ -1,102 +1,148 @@
-<div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=40&duration=4000&pause=1000&color=22f2c0&center=true&vCenter=true&width=720&height=100&lines=👋+Hello+World!+;+I'm+Srishan;A+Passionate+Software+Developer;🚀+MERN+Stack+Enthusiast;☕+Java+Developer" alt="Typing SVG">
-</a>
-</div>
-<h3 align="center">
+# 👨‍💻 Srishan Mandawala
 
-
-
-A Passionate IT Student Bridging the Gap Between Design and Functionality</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=msrishan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"> </p> <p align="center"> <a href="https://www.srishan.me"> <img src="https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio"> </a> </p>
-
-
-  <table style="width: 100%; border-collapse: collapse; margin: 30px auto; ">
-    <tr>
-      <td style="border: 1px solid #5DE2E7; padding: 10px; vertical-align: top;">
-        <ul style="list-style-type: none; padding: 0;">
-          <li>🔭 I’m currently working on <strong>MedSchedule</strong></li>
-          <li>🌱 I’m currently learning <strong>Spring Boot</strong></li>
-          <li>💬 Ask me about <strong>Java, HTML, CSS, JavaScript, C, PHP</strong></li>
-          <li>🌐 Portfolio: <a href="https://www.srishan.me" target="_blank">srishan.me</a></li>
-          <li>📫 How to reach me <a href ="srishanmandawala@gmail.com">srishanmandawala@gmail.com</a></li>
-        </ul>
-      </td>
-      <td style="border: 2px solid #ddd; padding: 10px; text-align: center;">
-        <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" height="290px" width="420px" style="border-radius: 15px;">
-      </td>
-    </tr>
-  </table>
-
-
- <br>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/Srishan Mandawala" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" alt="Srishan Mandawala"/></a>
-<a href="https://fb.com/Srishan Mandawala" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="60" alt="Srishan Mandawala" /></a>
-<a href="https://instagram.com/_s_r_i_s_h_a_n" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" alt="Srishan Mandawala" /></a>
-</p>
-<br>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<br>
-<h3 align="left">Languages and Tools:</h3>
- <div align="center">
-
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
- 
-<br /><code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-
-<br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
-
-<br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-<br/>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
-<br />
-
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
-<br />
-
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
-<br />
-
-<br />
-
-
-</div>
-<br>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<br>
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
+<div align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=mSrishan&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img 
-  title="🔥 Get streak stats for your profile at git.io/streak-stats" 
-  alt="Mark streak" 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=mSrishan&theme=dark&hide_border=false" 
-/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=800&color=00D8FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+🚀;ML+Engineer+🤖;MERN+%26+Next.js+Specialist;Building+the+Future+⚡)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=header&text=&fontSize=0" width="100%"/>
+</div>
+
+## 🎯 About Me
+
+```typescript
+const srishan = {
+  location: "🇱🇰 Colombo, Sri Lanka",
+  currentFocus: "Building scalable web applications with AI integration",
+  learning: ["Spring Boot", "Machine Learning", "Cloud Architecture"],
+  passion: "Transforming ideas into elegant digital solutions",
+  motto: "Code with purpose, design with empathy"
+};
+```
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=msrishan&label=Profile%20Views&color=00d8ff&style=for-the-badge)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00D8FF?style=for-the-badge&logo=vercel&logoColor=white)](https://www.srishan.me)
+
+</div>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Frontend Mastery
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### Styling & Design
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### Backend Power
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Database & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### Mobile & Tools
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+## 🚀 Current Focus
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔥 What I'm Building
+- **MedSchedule** - Smart healthcare scheduling platform
+- **AI-Powered Web Apps** - Integrating ML models with React/Next.js
+- **Spring Boot Microservices** - Scalable backend architectures
 
 </td>
-<td width="50%" align="center">
+<td width="50%">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mSrishan&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
+### 📚 Learning Journey
+- Advanced Spring Boot & Microservices
+- Machine Learning & Data Science
+- Cloud Architecture (AWS/GCP)
+- DevOps & CI/CD Pipelines
+
+</td>
 </tr>
 </table>
 
+## 📊 GitHub Analytics
 
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=mSrishan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mSrishan&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mSrishan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" />
+</div>
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![MedSchedule](https://github-readme-stats.vercel.app/api/pin/?username=mSrishan&repo=MedSchedule&theme=tokyonight&hide_border=true)](https://github.com/mSrishan/MedSchedule)
+
+</div>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srishan-mandawala)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.srishan.me)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srishanmandawala@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_s_r_i_s_h_a_n)
+
+</div>
+
+## 💡 Philosophy
+
+> *"In the intersection of code and creativity, we find the power to solve tomorrow's problems today."*
+
+<div align="center">
+  
+**Always open to collaborating on innovative projects!** 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&text=&fontSize=0" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+  <i>⭐ Star my repositories if you find them useful!</i>
+</div>
